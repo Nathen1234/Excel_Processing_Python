@@ -1,4 +1,4 @@
 @echo off
-cd "C:\Python Projects\Random\myfirstproject\Final"
+cd "C:\Excel"
 python main.py
 pause

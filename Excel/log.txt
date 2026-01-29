@@ -1,0 +1,13 @@
+[2026-01-29 08:00:11] Loading file: Example 1.xlsx
+[2026-01-29 08:00:13] Customer:'Sahra' is banned
+[2026-01-29 08:00:13] Missing values handled
+[2026-01-29 08:00:13] Loading file: Example 2.xlsx
+[2026-01-29 08:00:13] Missing values handled
+[2026-01-29 08:00:13] All files processed and combined
+[2026-01-29 08:00:13] Removed 1 duplicate rows
+[2026-01-29 08:00:13] Total row added
+[2026-01-29 08:00:13] Output saved to Output\cleaned_output.xlsx
+[2026-01-29 08:00:13] Total rows in file: 9
+[2026-01-29 08:00:13] *___________________________________*
+[2026-01-29 08:00:13] | Automation completed successfully |
+[2026-01-29 08:00:13] |___________________________________|
